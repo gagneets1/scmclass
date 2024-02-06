@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello world , scm classes exp 4
+=======
+hello world
+chitkara university punjab 
+>>>>>>> bhumilbranch
